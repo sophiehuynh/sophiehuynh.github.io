@@ -149,9 +149,10 @@ img {
     #AboutMe, #Skills, #Contact {
       height: 900px;
       width:100%;
+      color:red;
     }
 
     p {
-        width: 100%
+        width: 80%
     }
   }
