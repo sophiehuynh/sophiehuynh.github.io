@@ -146,7 +146,12 @@ img {
 }
 
 @media screen and (max-width: 800px) {
-    #AboutMe {
-      height: 800px; /* The width is 100%, when the viewport is 800px or smaller */
+    #AboutMe, #Skills, #Contact {
+      height: 900px;
+      width:100%;
+    }
+
+    p {
+        width: 100%
     }
   }
