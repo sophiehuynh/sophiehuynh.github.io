@@ -62,12 +62,14 @@ a {
 p {
     color:white;
     width:500px;
-    max-width:50%;
+    max-width:100%;
     text-align: center;
     position:relative;
-    top:17%;
+    top:0%;
     left:50%;
     transform: translate(-50%, -50%);
+    margin-top: 10%;
+    border:1px solid black;
 }
 
 ul {
@@ -80,6 +82,7 @@ img {
     width: 300px;
     border: 5px solid black;
     border-radius: 5px;
+    margin-top:-5%;
 }
 
 .inner {
@@ -145,14 +148,36 @@ img {
     font-weight:bold;
 }
 
-@media screen and (max-width: 800px) {
-    #AboutMe, #Skills, #Contact {
-      height: 900px;
-      width:100%;
+@media screen and (max-width: 640px) {
+    #AboutMe {
+        padding-top:20%;
+    }
+    #Skills, #Contact, .inner{
       color:red;
     }
 
     p {
-        width: 80%
+        width: 90%;
     }
+
+    ul {
+        width:70%;
+        transform: translate(20%, 0%);
+    }
+
   }
+
+@media screen and (max-width: 1024px) {
+    #AboutMe {
+        padding-top:15%
+    }
+    #Skills, #Contact {
+        color:blue;
+    }
+    ul {
+        width:70%
+    }
+    header {
+        transform: translate(0%, 0%);
+    }
+}
