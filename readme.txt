@@ -46,6 +46,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
     https://fonts.google.com
     https://www.w3schools.com/cssref/
     https://www.codegrepper.com/code-examples/html/how+do+i+set+a+pdf+to+be+download+link+in+html
+    https://www.w3.org/Style/Examples/007/center.en.html
 
 5. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
     I did not consult any other individuals to complete this assignment.
