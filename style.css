@@ -70,7 +70,7 @@ p {
 
 ul {
     list-style:circle;
-    font-size: 23px;
+    font-size: 19px;
 }
 
 img {
@@ -139,8 +139,12 @@ img {
     padding:0px;
     margin:0px;
     margin-left:10px;
-    font-size: 28px;
+    font-size: 26px;
     font-weight:bold;
+}
+
+.email {
+    font-weight: bold;
 }
 
 @media screen and (max-width: 640px) {

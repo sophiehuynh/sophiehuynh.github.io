@@ -56,10 +56,8 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 6. Is there anything special we need to know in order to run your code?
-    Upon running the achecker, it says I had 17m Known Problems but they all relate to the contrast between
-    the color of text and its background element etc.. I do not believe this is an issue where I need to make 
-    any changes as I believe the contrasts for the colors I used are sufficient that any user would not have 
-    trouble with reading the text. I  believe the black font color on a light background, close enough to white, and the white font 
-    on a deep torquoise background provides enough contrast already. 
+    Upon running the accessibilty checker, it says I had a number of Known Problems but they all relate to the text size. I believe that I 
+    am able to ignore this problem because the fonts are close enough already to the specified font size and also believe that 
+    my website is accessible with my current font sizes. They are not too big nor too small. 
     Also, the W3 validator link on the website does not work for some reason, it says I do not have a website header. But if I 
     manually go to the W3 validator, then it does work.
