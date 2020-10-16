@@ -155,15 +155,11 @@ img {
         color: red;
     }
     .inner {
-        margin-left:10%;
+        margin-left:30%;
     }
 
     p {
         width: 90%;
-    }
-
-    ul {
-        width:70%;
     }
   }
 
