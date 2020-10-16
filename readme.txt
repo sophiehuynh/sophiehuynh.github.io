@@ -25,6 +25,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
     - Image of myself with an alt attribute
     - Headings and paragraph text, also using ul & li
     - Link to an external page(LinkedIn)
+    - Ability to download my resume
     - I added many custom Icons from Google Material Icons
 
 (b) CSS features
@@ -38,7 +39,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 3. How long, in hours, did it take you to complete this assignment?
-    About 10 hours, spread across a few days.
+    About 15-18 hours, spread across a few days.
 
 
 4. What online resources did you consult when completing this assignment? (list specific URLs)
@@ -49,8 +50,14 @@ Talking to classmates about class material, assignment requirements, etc. is a g
     https://www.w3.org/Style/Examples/007/center.en.html
 
 5. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
-    I did not consult any other individuals to complete this assignment.
+    I did not consult any other classmates to complete this assignment, but I did consult the Professor
+    on how to fix my pararaph element to make it more responsive and not make it overlap other elements 
+    when minimzing the window.
 
 
 6. Is there anything special we need to know in order to run your code?
-    None.
+    Upon running the achecker, it says I had 17m Known Problems but they all relate to the contrast between
+    the color of text and its background element etc.. I do not believe this is an issue where I need to make 
+    any changes as I believe the contrasts for the colors I used are sufficient that any user would not have 
+    trouble with reading the text. I  believe the black font color on a light background, close enough to white, and the white font 
+    on a deep torquoise background provides enough contrast already. 

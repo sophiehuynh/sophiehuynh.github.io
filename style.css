@@ -152,21 +152,17 @@ img {
 
 @media screen and (max-width: 640px) {
     .inner {
-        color: red;
+        margin-left:35%;
     }
-    .inner {
-        margin-left:30%;
+    #Contact {
+        margin-right:10%;
     }
-
     p {
         width: 90%;
     }
   }
 
 @media screen and (max-width: 1024px) {
-    #Skills, #Contact {
-        color:blue;
-    }
     ul {
         width:70%;
     }
