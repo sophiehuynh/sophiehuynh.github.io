@@ -10,10 +10,10 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
-*/10
+10/10
 - 1/1 Readme
 - 2/2 Basic HTML content
-- 2/1 Basic CSS styling
+- 1/1 Basic CSS styling
 - 1/1 Advanced feature
 - 2/2 Responsive layout
 - 1/1 Passes validation checks
@@ -35,11 +35,11 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 (c) Advanced features
     - Navigation Bar linking to spots on the same page for easier access to topics 
-        on my portfolio
+        on my portfolio (About Me, Skills, Contact)
 
 
 3. How long, in hours, did it take you to complete this assignment?
-    About 15-18 hours, spread across a few days.
+    About 15-16 hours, spread across a few days.
 
 
 4. What online resources did you consult when completing this assignment? (list specific URLs)
@@ -50,7 +50,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
     https://www.w3.org/Style/Examples/007/center.en.html
 
 5. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
-    I did not consult any other classmates to complete this assignment, but I did consult the Professor
+    I did not consult any other classmates to complete this assignment, but I did consult the Professor 
     on how to fix my pararaph element to make it more responsive and not make it overlap other elements 
     when minimzing the window.
 
@@ -61,3 +61,5 @@ Talking to classmates about class material, assignment requirements, etc. is a g
     any changes as I believe the contrasts for the colors I used are sufficient that any user would not have 
     trouble with reading the text. I  believe the black font color on a light background, close enough to white, and the white font 
     on a deep torquoise background provides enough contrast already. 
+    Also, the W3 validator link on the website does not work for some reason, it says I do not have a website header. But if I 
+    manually go to the W3 validator, then it does work.
