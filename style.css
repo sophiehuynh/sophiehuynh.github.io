@@ -1,3 +1,4 @@
+/* REGULAR HTML ELEMENTS */
 header {
     background-color:white;
     position:fixed;
@@ -81,6 +82,7 @@ img {
     margin-top:5%;
 }
 
+/* CLASSES */
 .inner {
     width: 500px;
     position:relative;
@@ -89,32 +91,6 @@ img {
     transform: translate(-50%, -50%);
     list-style-position: inside;
     text-align:left;
-}
-
-#AboutMe {
-    background-color:rgb(24, 70, 70);
-    height:700px;
-    font-size:20px;
-    padding-bottom:30px;
-}
-
-#name {
-    position:relative;
-    bottom:20px;
-    margin-bottom:20px;
-}
-
-#Skills {
-    padding: 100px;
-    margin:0;
-    height:500px;
-    background-color:rgb(220, 238, 238);
-}
-
-#Contact {
-    background-color:rgb(167, 197, 197);
-    height:200px;
-
 }
 
 .icon {
@@ -147,6 +123,35 @@ img {
     font-weight: bold;
 }
 
+/* IDs */
+#AboutMe {
+    background-color:rgb(24, 70, 70);
+    height:700px;
+    font-size:20px;
+    padding-bottom:30px;
+}
+
+#name {
+    position:relative;
+    bottom:20px;
+    margin-bottom:20px;
+}
+
+#Skills {
+    padding: 100px;
+    margin:0;
+    height:500px;
+    background-color:rgb(220, 238, 238);
+}
+
+#Contact {
+    background-color:rgb(167, 197, 197);
+    height:200px;
+
+}
+
+
+/* MEDIA QUERIES */
 @media screen and (max-width: 640px) {
     .inner {
         margin-left:35%;
