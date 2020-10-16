@@ -58,6 +58,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 6. Is there anything special we need to know in order to run your code?
     Upon running the accessibilty checker, it says I had a number of Known Problems but they all relate to the text size. I believe that I 
     am able to ignore this problem because the fonts are close enough already to the specified font size and also believe that 
-    my website is accessible with my current font sizes. They are not too big nor too small. 
+    my website is accessible with my current font sizes. They are not too big nor too small. Also, my header which is my name, should 
+    be a bigger font despite it telling me that it should be smaller.
     Also, the W3 validator link on the website does not work for some reason, it says I do not have a website header. But if I 
     manually go to the W3 validator, then it does work.
