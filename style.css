@@ -96,7 +96,6 @@ img {
 
 #AboutMe {
     background-color:rgb(24, 70, 70);
-    border:1px solid rgb(24, 70, 70);
     height:700px;
     font-size:20px;
     padding-bottom:30px;
@@ -135,7 +134,6 @@ img {
     margin:0;
     margin-left:10px;
     font-size:23px;
-    font-weight:none;
 }
 
 .lang {
